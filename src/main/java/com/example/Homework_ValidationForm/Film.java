@@ -1,6 +1,5 @@
-package com.example.Homework_ValidationForm.Entity;
+package com.example.Homework_ValidationForm;
 
-import com.example.Homework_ValidationForm.Enum.Genre;
 import jakarta.persistence.*;
 
 import java.util.Set;

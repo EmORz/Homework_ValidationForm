@@ -1,4 +1,4 @@
-package com.example.Homework_ValidationForm.Enum;
+package com.example.Homework_ValidationForm;
 
 public enum Genre {
     ACTION,

@@ -1,4 +1,4 @@
-package com.example.Homework_ValidationForm.Entity;
+package com.example.Homework_ValidationForm;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
